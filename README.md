@@ -145,9 +145,12 @@ Weighted Avg      0.96      0.96      0.96       114
 ### 🧮 Confusion Matrix
 
 ```text
-[[39  3]
+ [[39  3]
  [ 2 70]]
+Sensitivity: 0.9722222222222222
+Specificity: 0.9285714285714286
 ```
+
 
 📌 **Key Insight:**
 The model achieves **high recall for malignant cases**, minimizing false negatives — a critical requirement in medical diagnostics.
